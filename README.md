@@ -1,6 +1,6 @@
 # 🎯 감정 음성 데이터 분석: 과적합 방지 고찰
 
-## 📊프로젝트  링크
+## 📊프로젝트 PPT 링크
 발표용 슬라이드: https://docs.google.com/presentation/d/1ysadmKWzAK9TvJ8QxTdkTegd7T5-nAVor1_x6cmYPDI/edit#slide=id.p
 
 ## ✨ 프로젝트 소개
