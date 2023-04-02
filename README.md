@@ -27,6 +27,7 @@
 https://user-images.githubusercontent.com/58973535/228573752-ca3aaa49-0efd-4321-a439-94151d6f7fba.mp4
 
 
+
 5. LSTM, ResNet, Efficient Net, Random Forest 모델을 사용
 
 |모델명|train accuracy|test accuracy|top-2 accuracy|
