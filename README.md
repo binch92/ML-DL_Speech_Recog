@@ -8,27 +8,27 @@
 
 음성데이터에서 특징을 추출하여 기쁨, 당황, 분노, 불안, 슬픔 총 5개의 감정을 분류하는 모델을 설계
 
-1. mfcc와 mel spectrogram을 이용하여 음성데이터에서 특징을 추출
+**1. mfcc와 mel spectrogram을 이용하여 음성데이터에서 특징을 추출**
 
 ![image](https://user-images.githubusercontent.com/58973535/228572324-1f78a065-da26-4f97-9e1b-345e2612c264.png)
 
-2. LSTM 모델 사용
+**2. LSTM 모델 사용**
 
 ![image](https://user-images.githubusercontent.com/58973535/228572453-a7aa186c-74e3-4a0d-9022-a06fd4a2a0ab.png)
 
 -> 과적합 발생 !
 
-3. 음성데이터를 8등분 후 랜덤으로 병합
+**3. 음성데이터를 8등분 후 랜덤으로 병합**
 
 ![image](https://user-images.githubusercontent.com/58973535/228574042-33863828-1cee-44ab-a9fa-025c3c47ba48.png)
 
-4. 랜덤으로 이어붙인 음성데이터에서 mfcc와 mel spectrogram을 이용하여 특징 추출
+**4. 랜덤으로 이어붙인 음성데이터에서 mfcc와 mel spectrogram을 이용하여 특징 추출**
 
 https://user-images.githubusercontent.com/58973535/228573752-ca3aaa49-0efd-4321-a439-94151d6f7fba.mp4
 
 -----------------------------------------------------------------------------------------------------
 
-5. LSTM, ResNet, Efficient Net, Random Forest 모델을 사용
+**5. LSTM, ResNet, Efficient Net, Random Forest 모델을 사용**
 
 |모델명|train accuracy|test accuracy|top-2 accuracy|
 |---|---|---|---|
