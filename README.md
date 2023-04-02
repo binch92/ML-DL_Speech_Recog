@@ -23,6 +23,7 @@
 ![image](https://user-images.githubusercontent.com/58973535/228574042-33863828-1cee-44ab-a9fa-025c3c47ba48.png)
 
 4. 랜덤으로 이어붙인 음성데이터에서 mfcc와 mel spectrogram을 이용하여 특징 추출
+
 https://user-images.githubusercontent.com/58973535/228573752-ca3aaa49-0efd-4321-a439-94151d6f7fba.mp4
 
 -----------------------------------------------------------------------------------------------------
