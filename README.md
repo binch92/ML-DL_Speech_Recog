@@ -39,6 +39,6 @@ https://user-images.githubusercontent.com/58973535/228573752-ca3aaa49-0efd-4321-
 ## 📜 기술 스택
 ![image](https://user-images.githubusercontent.com/119157378/229338212-2d52bca2-07a7-499e-9e98-601dadb2e272.png)
 
-![image](https://user-images.githubusercontent.com/119157378/229338227-b9bf5537-dbe0-4d01-82c9-9fcb02853e64.png)
+![image](https://user-images.githubusercontent.com/119157378/231588546-33d33eb9-9ca3-4c2a-a0ac-40b503712f2a.png)
 
 
